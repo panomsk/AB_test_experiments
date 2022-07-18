@@ -1,5 +1,5 @@
-# AB_test_experiments  
-## Проведем ряд экспериментов для более глубокого понимания принципов проведения АБ-тестирования и применяемых для этого статистических методов  
+## AB_test_experiments  
+### Проведем ряд экспериментов для более глубокого понимания принципов проведения АБ-тестирования и применяемых для этого статистических методов  
 ### В работе использованы следующие материалы
 Ссылка | Краткое описание | Автор материала
 --|--|--
@@ -12,4 +12,4 @@
 [Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) | Intuitive statistical calculators, ideal for planning and analyzing A/B tests | Evan Miller
 [CUPED](https://bytepawn.com/reducing-variance-in-conversion-ab-testing-with-cuped.html#reducing-variance-in-conversion-ab-testing-with-cuped) | Reducing variance in conversion A/B testing with CUPED | Marton Trencseni
 
-Огромное спасибо авторам за проделанную работу!
+**Огромное спасибо авторам за проделанную работу!**
