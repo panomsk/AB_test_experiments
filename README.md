@@ -1,15 +1,15 @@
 # AB_test_experiments  
-## Проведем ряд экспериментов для более глубокого понимания принципов проведения АБ-тестирования и применяемых для этого статистических методов  
-### В работе использованы следующие материалы
-Ссылка | Краткое описание | Автор материала
+## РџСЂРѕРІРµРґРµРј СЂСЏРґ СЌРєСЃРїРµСЂРёРјРµРЅС‚РѕРІ РґР»СЏ Р±РѕР»РµРµ РіР»СѓР±РѕРєРѕРіРѕ РїРѕРЅРёРјР°РЅРёСЏ РїСЂРёРЅС†РёРїРѕРІ РїСЂРѕРІРµРґРµРЅРёСЏ РђР‘-С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ Рё РїСЂРёРјРµРЅСЏРµРјС‹С… РґР»СЏ СЌС‚РѕРіРѕ СЃС‚Р°С‚РёСЃС‚РёС‡РµСЃРєРёС… РјРµС‚РѕРґРѕРІ  
+### Р’ СЂР°Р±РѕС‚Рµ РёСЃРїРѕР»СЊР·РѕРІР°РЅС‹ СЃР»РµРґСѓСЋС‰РёРµ РјР°С‚РµСЂРёР°Р»С‹
+РЎСЃС‹Р»РєР° | РљСЂР°С‚РєРѕРµ РѕРїРёСЃР°РЅРёРµ | РђРІС‚РѕСЂ РјР°С‚РµСЂРёР°Р»Р°
 --|--|--
-[Воркшоп A/B testing](https://www.youtube.com/watch?v=O6FXzCFnJxM)| AB тестирование, основные этапы, проблемы, решения | Валерий Бабушкин
-[AB testing](https://www.youtube.com/watch?v=dFCJysbOJ8c)| A/B-тестирование: как сделать так, чтобы оно заработало | Анатолий Карпов
-[AB testing](https://www.youtube.com/watch?v=jnFVmtaeSA0)| Тонкости A/B тестирования: проблема подглядывания | Анатолий Карпов
-[AB test sample size](https://www.youtube.com/watch?v=2nP_gcut7SU)| Как и зачем оценивать размер выборки для A/B теста? | Анатолий Карпов
+[Р’РѕСЂРєС€РѕРї A/B testing](https://www.youtube.com/watch?v=O6FXzCFnJxM)| AB С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ, РѕСЃРЅРѕРІРЅС‹Рµ СЌС‚Р°РїС‹, РїСЂРѕР±Р»РµРјС‹, СЂРµС€РµРЅРёСЏ | Р’Р°Р»РµСЂРёР№ Р‘Р°Р±СѓС€РєРёРЅ
+[AB testing](https://www.youtube.com/watch?v=dFCJysbOJ8c)| A/B-С‚РµСЃС‚РёСЂРѕРІР°РЅРёРµ: РєР°Рє СЃРґРµР»Р°С‚СЊ С‚Р°Рє, С‡С‚РѕР±С‹ РѕРЅРѕ Р·Р°СЂР°Р±РѕС‚Р°Р»Рѕ | РђРЅР°С‚РѕР»РёР№ РљР°СЂРїРѕРІ
+[AB testing](https://www.youtube.com/watch?v=jnFVmtaeSA0)| РўРѕРЅРєРѕСЃС‚Рё A/B С‚РµСЃС‚РёСЂРѕРІР°РЅРёСЏ: РїСЂРѕР±Р»РµРјР° РїРѕРґРіР»СЏРґС‹РІР°РЅРёСЏ | РђРЅР°С‚РѕР»РёР№ РљР°СЂРїРѕРІ
+[AB test sample size](https://www.youtube.com/watch?v=2nP_gcut7SU)| РљР°Рє Рё Р·Р°С‡РµРј РѕС†РµРЅРёРІР°С‚СЊ СЂР°Р·РјРµСЂ РІС‹Р±РѕСЂРєРё РґР»СЏ A/B С‚РµСЃС‚Р°? | РђРЅР°С‚РѕР»РёР№ РљР°СЂРїРѕРІ
 [AB test sample size](https://www.youtube.com/watch?v=JEAsoUrX6KQ) | How to Estimate Sample Size in A/B Tests | Data Interview Pro, Emma
 [AB test sample size](https://jeffshow.com/caculate-abtest-required-sample-size.html)| Compare calculating methods | Jeff Show
-[Evan’s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) | Intuitive statistical calculators, ideal for planning and analyzing A/B tests | Evan Miller
+[EvanвЂ™s Awesome A/B Tools](https://www.evanmiller.org/ab-testing/) | Intuitive statistical calculators, ideal for planning and analyzing A/B tests | Evan Miller
 [CUPED](https://bytepawn.com/reducing-variance-in-conversion-ab-testing-with-cuped.html#reducing-variance-in-conversion-ab-testing-with-cuped) | Reducing variance in conversion A/B testing with CUPED | Marton Trencseni
 
-Огромное спасибо авторам за проделанную работу!
+РћРіСЂРѕРјРЅРѕРµ СЃРїР°СЃРёР±Рѕ Р°РІС‚РѕСЂР°Рј Р·Р° РїСЂРѕРґРµР»Р°РЅРЅСѓСЋ СЂР°Р±РѕС‚Сѓ!
